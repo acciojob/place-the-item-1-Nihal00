@@ -1,10 +1,10 @@
-.container {
+.holder  {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
 
-.container div {
+.holder div {
 	height: 50px;
 	width: 50px;
 	background-color: green;
